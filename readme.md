@@ -72,10 +72,10 @@
 
 | ⏰ 시간 | 📋 일정 | 🔍 상세 정보 | 🗺️ 구글 맵 |
 |:-------:|---------|-------------|------------|
-| 08:00 | **기상 및 아침 식사** | • <br> Mon Kee Cafe : 마카로니 수프, 토스트, 오믈렛 <br> 란퐁유엔 : 토스트, 밀크티 <br> 호텔 조식 | [란퐁유엔](https://maps.app.goo.gl/2oQNFrrZCPRktDNUA)<br>[mon kee cafe](https://maps.app.goo.gl/oDYZTabSKZ3AzzoY9) <br> [the haven](https://maps.app.goo.gl/gK32SvUwHwuGoRyM9) |
+| 08:00 | **기상 및 아침 식사** | •**추천 식당** <br> Mon Kee Cafe : 마카로니 수프, 토스트, 오믈렛 <br> 란퐁유엔 : 토스트, 밀크티 <br> 호텔 조식 | [란퐁유엔](https://maps.app.goo.gl/2oQNFrrZCPRktDNUA)<br>[mon kee cafe](https://maps.app.goo.gl/oDYZTabSKZ3AzzoY9) <br> [the haven](https://maps.app.goo.gl/gK32SvUwHwuGoRyM9) |
 | 09:00 | **체크아웃** | • 호텔 체크아웃<br>• 짐은 호텔 보관함에 맡기, (SF Express)> | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
 | 09:00 ~ 10:00 | **퉁청역 케이블카로 이동** | • 옹핑 케이블카 정거장으로 가기, 케이블카 바우처는 메일에 있음 | [퉁청역 옹핑 케이블카](https://maps.app.goo.gl/f1DUz6jufsdiaz4m8) |
-| 10:00 ~ 13:30 | **옹핑마을 관광 및 식사** | • 사원, 부처상 관광> | [부처상](https://maps.app.goo.gl/sttzxvzRNNsw282dA) |
+| 10:00 ~ 13:30 | **옹핑마을 관광 및 점심식사** | • 사원, 부처상 관광> | [부처상](https://maps.app.goo.gl/sttzxvzRNNsw282dA) |
 | 13:30 ~ 14:00 | **공항으로 이동** | • 퉁청역 > 공항 | [홍콩 국제 공항](https://maps.app.goo.gl/DPZ1WX6nfoP9cmHbA) |
 | 16:25 | **출국** | 출국 심사 및 한국행 비행기 탑승 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
 
