@@ -60,7 +60,7 @@
 | 17:30 - 18:30 | **침사추이 복귀** | • MTR 혹은 페리 타고 복귀 |  |
 | 18:30 - 19:30 | **저녁 식사** | • **추천 식당** <br> Shek kee noodle : 완탕면, <br> 호텔 뷔페 (더 헤이븐) | [shek kee wontan Noodles](https://maps.app.goo.gl/BFA5aZKKEWbkt3xRA) <br> [the haven](https://maps.app.goo.gl/gK32SvUwHwuGoRyM9) | 
 | 19:30 - 20:30 | **스타의 거리** | • 홍콩 배우들의 손 프린팅이 있는 거리. 야경 좋음 | [이소룡 동상](https://maps.app.goo.gl/mbBYSNQZLXCivVFL7) <br> [스타의 거리](https://maps.app.goo.gl/RxzR1tMgCQsFibBV9)| 
-| 21:00 ~ | 숙소 or 야경 구경 | [Eyebar](https://maps.app.goo.gl/YRwNHrBRvMUDuqhdA)
+| 21:00 ~ | 숙소 or 바에서 야경 구경 | | [Eyebar](https://maps.app.goo.gl/YRwNHrBRvMUDuqhdA) |
 
 
 ### 선택 관광
