@@ -39,7 +39,7 @@
 | 12:40 - 17:00 | **세나도 광장에서 쭉 내려오면서 도보투어** | • **주요 명소** <br>세인트 폴 성당 <br> 몬테 요새 <br> 육포 거리 <br> 성 도미니크 성당 <br> 세나도 광장 <br> 성 아우구스티노 성당 <br> 돔 페드로 5세 극장 <br> 성 라우렌시오 성당 <br> 이마사원 | [Cafe SAB8](https://maps.app.goo.gl/Y5YibZe2atzgTfV26) <br> [세인트 폴 성당](https://maps.app.goo.gl/Dg3ikgvnoqKUvHUi6) <br> [몬테 요새](https://maps.app.goo.gl/MbZ3eCB5RgECz7kw6) <br>[육포 거리](https://maps.app.goo.gl/MxB534sDFVzzceyU6) <br>[성 도미니크 성당](https://maps.app.goo.gl/j4EyWYzsyoTRQmPj9) <br>[세나도 광장](https://maps.app.goo.gl/DqPoLV3ELyyhWieCA) <br>[성 아우구스티노 성당](https://maps.app.goo.gl/VhkcYK2yeo4Lc5KZ7) <br>[돔 페드로 5세 극장](https://maps.app.goo.gl/izPT6NxBck8CJQGz7) <br>[이마사원](https://maps.app.goo.gl/vVckF7rL9FZGyd7J8) |
 | 17:00 ~ 18:00 | **모노레일 타고 타이파로 넘어오기** | • barra -> pai kok : 4정거장 | [barra station](https://maps.app.goo.gl/1e3XieJzkgNn6EwL6) <br> [pai kok station](https://maps.app.goo.gl/ZdufVV3h8YdHwm1G9) |
 | 18:00 - 19:00 | **저녁 식사** | • **추천 식당** <br>Pepper Lunch : 갤럭시 호텔 푸드코트에 있는 스테이크 덮밥 <br> 북방관 : 베네시안 호텔에 있는 한국인 추천 중국집 | [Pepper Lunch](https://maps.app.goo.gl/jk5kg6y5FfZW3oNf6) <br> [북방관](https://maps.app.goo.gl/BUXqp86Zv8iCUVsL7)|
-| 19:00 ~ 22:00 | **호텔 투어** | • 갤럭시 호텔 30분마다 다이아몬드 쇼<br> 베니시안 호텔<br> 파리지앵 마카오 (에펠탑 올라가 볼 수 있음)<br> 런디너 호텔<br> 윈펠리스 호텔 20분마다 분수쇼  | [barra station](https://maps.app.goo.gl/1e3XieJzkgNn6EwL6) [pai kok station](https://maps.app.goo.gl/ZdufVV3h8YdHwm1G9) |
+| 19:00 ~ 22:00 | **호텔 투어** | 갤럭시 호텔 30분마다 다이아몬드 쇼<br> 베니시안 호텔<br> 파리지앵 마카오 (에펠탑 올라가 볼 수 있음)<br> 런디너 호텔<br> 윈펠리스 호텔 20분마다 분수쇼  | [갤럭시호텔](https://maps.app.goo.gl/BiE4ZE7AeAy8mtus5) <br> [베니시안 호텔](https://maps.app.goo.gl/p4ZfSrEmKx437Vyf8) <br> [파리지앵 마카오](https://maps.app.goo.gl/PURMTyoYcSopnaUy8)<br> [런디너 호텔](https://maps.app.goo.gl/5HhbSZ1iWib4SWHu7)<br> [윈 팰리스](https://maps.app.goo.gl/ueAZjjNgr8LWuj8M9) |
 | 22:00 ~ 23:00 | **홍콩 복귀** | • 타이파 마카오 페리 터미널 -> 셩완 페리 터미널 -> 침사추이 스타 페리 터미널  | [타이파 마카오 페리 터미널](https://maps.app.goo.gl/v1fV5PidvEPzM1kXA) <br> [셩완 페리 터미널](https://maps.app.goo.gl/b44tMhRbuM2bzLEK9) <br> [스타페리 터미널](https://maps.app.goo.gl/NHD49mzW5fH5Zgyz9)|
 
 
@@ -79,10 +79,6 @@
 | 12:45 - 13:00 | **짐 찾기** | 호텔로 복귀하여 보관한 짐 찾기 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
 | 13:00 - 13:35 | **공항으로 이동** | • **이동수단**: 에어포트 익스프레스<br>• **소요시간**: 약 24분<br>• **비용**: HK$115<br>• **출발지**: 침사추이역→홍콩역(MTR 환승 HK$10)<br>• **도착지**: 홍콩 국제공항 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
 | 13:35 | **출국** | 출국 심사 및 한국행 비행기 탑승 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
-
-### 🍽️ 식사 정보
-- **아침**: 호텔 조식 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7)
-- **점심**: 메종 리퀴드 골드 또는 락차 티하우스 | [락차 티하우스](https://maps.app.goo.gl/zUSiRB6WKGRZYv7d8)
 
 ---
 
