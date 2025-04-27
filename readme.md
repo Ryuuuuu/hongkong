@@ -77,6 +77,7 @@
 | 09:00 ~ 10:00 | **퉁청역 케이블카로 이동** | • 옹핑 케이블카 정거장으로 가기, 케이블카 바우처는 메일에 있음 | [퉁청역 옹핑 케이블카](https://maps.app.goo.gl/f1DUz6jufsdiaz4m8) |
 | 10:00 ~ 13:30 | **옹핑마을 관광 및 점심식사** | • 사원, 부처상 관광> | [부처상](https://maps.app.goo.gl/sttzxvzRNNsw282dA) |
 | 13:30 ~ 14:00 | **공항으로 이동** | • 퉁청역 > 공항 | [홍콩 국제 공항](https://maps.app.goo.gl/DPZ1WX6nfoP9cmHbA) |
+| 14:00 ~ | **기념품 구매** | • 기화병가 판다쿠키 | [기화병가](https://maps.app.goo.gl/cKTBX8erbnQALeYz8) |
 | 16:25 | **출국** | 출국 심사 및 한국행 비행기 탑승 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
 
 ---
