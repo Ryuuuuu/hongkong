@@ -59,7 +59,7 @@
 | 16:30 - 17:30 | **타이쿤 복합문화센터** | • 중국 전통 건축물을 개조한 복합문화센터<br>• 예술 전시 및 갤러리 감상 | [타이쿤](https://maps.app.goo.gl/ChURRs26mfCrW6t28) |
 | 17:30 - 18:30 | **침사추이 복귀** | • MTR 혹은 페리 타고 복귀 |  |
 | 18:30 - 19:30 | **저녁 식사** | • **추천 식당** <br> Shek kee noodle : 완탕면, <br> 호텔 뷔페 (더 헤이븐) | [shek kee wontan Noodles](https://maps.app.goo.gl/BFA5aZKKEWbkt3xRA) <br> [the haven](https://maps.app.goo.gl/gK32SvUwHwuGoRyM9) | 
-| 19:30 - 20:30 | **스타의 거리** | • 홍콩 배우들의 손 프린팅이 있는 거리. 야경 좋음 | [shek kee wontan Noodles](https://maps.app.goo.gl/BFA5aZKKEWbkt3xRA) <br> [이소룡 동상](https://maps.app.goo.gl/mbBYSNQZLXCivVFL7) <br> [스타의 거리](https://maps.app.goo.gl/RxzR1tMgCQsFibBV9)| 
+| 19:30 - 20:30 | **스타의 거리** | • 홍콩 배우들의 손 프린팅이 있는 거리. 야경 좋음 | [이소룡 동상](https://maps.app.goo.gl/mbBYSNQZLXCivVFL7) <br> [스타의 거리](https://maps.app.goo.gl/RxzR1tMgCQsFibBV9)| 
 | 21:00 ~ | 숙소 or 야경 구경 | [Eyebar](https://maps.app.goo.gl/YRwNHrBRvMUDuqhdA)
 
 
@@ -72,13 +72,12 @@
 
 | ⏰ 시간 | 📋 일정 | 🔍 상세 정보 | 🗺️ 구글 맵 |
 |:-------:|---------|-------------|------------|
-| 09:00 | **기상 및 아침 식사** | • **추천 식당**: 호텔 내 조식 뷔페<br>• 체크아웃을 위한 짐 정리 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
-| 10:00 | **체크아웃** | • 호텔 체크아웃<br>• 짐은 호텔 보관함에 맡기기 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
-| 10:30 - 12:00 | **침사추이 주변 마지막 쇼핑** | • 하버 시티(Harbour City) 쇼핑몰<br>• 1881 헤리티지(1881 Heritage)<br>• K11 MUSEA | [하버 시티](https://maps.app.goo.gl/Tb2P5sfPsWwJNBGJ8)<br>[1881 헤리티지](https://maps.app.goo.gl/Kn3Lny1WLZ9xnwXHA)<br>[K11 MUSEA](https://maps.app.goo.gl/FRHQ6znqyAC1Knwz5) |
-| 12:00 - 12:45 | **점심 식사** | • **추천 식당**: '메종 리퀴드 골드' 또는 '락차(Luk Yu Tea House)'<br>• **주요 메뉴**: 홍콩식 완탕면, 딤섬<br>• **예상 비용**: 1인당 HK$80-120 | [락차 티하우스](https://maps.app.goo.gl/zUSiRB6WKGRZYv7d8) |
-| 12:45 - 13:00 | **짐 찾기** | 호텔로 복귀하여 보관한 짐 찾기 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
-| 13:00 - 13:35 | **공항으로 이동** | • **이동수단**: 에어포트 익스프레스<br>• **소요시간**: 약 24분<br>• **비용**: HK$115<br>• **출발지**: 침사추이역→홍콩역(MTR 환승 HK$10)<br>• **도착지**: 홍콩 국제공항 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
-| 13:35 | **출국** | 출국 심사 및 한국행 비행기 탑승 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
+| 08:00 | **기상 및 아침 식사** | • <br> Mon Kee Cafe : 마카로니 수프, 토스트, 오믈렛 <br> 란퐁유엔 : 토스트, 밀크티 <br> 호텔 조식 | [란퐁유엔](https://maps.app.goo.gl/2oQNFrrZCPRktDNUA)<br>[mon kee cafe](https://maps.app.goo.gl/oDYZTabSKZ3AzzoY9) <br> [the haven](https://maps.app.goo.gl/gK32SvUwHwuGoRyM9) |
+| 09:00 | **체크아웃** | • 호텔 체크아웃<br>• 짐은 호텔 보관함에 맡기, (SF Express)> | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
+| 09:00 ~ 10:00 | **퉁청역 케이블카로 이동** | • 옹핑 케이블카 정거장으로 가기, 케이블카 바우처는 메일에 있음 | [퉁청역 옹핑 케이블카](https://maps.app.goo.gl/f1DUz6jufsdiaz4m8) |
+| 10:00 ~ 13:30 | **옹핑마을 관광 및 식사** | • 사원, 부처상 관광> | [부처상](https://maps.app.goo.gl/sttzxvzRNNsw282dA) |
+| 13:30 ~ 14:00 | **공항으로 이동** | • 퉁청역 > 공항 | [홍콩 국제 공항](https://maps.app.goo.gl/DPZ1WX6nfoP9cmHbA) |
+| 16:25 | **출국** | 출국 심사 및 한국행 비행기 탑승 | [홍콩 국제공항](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
 
 ---
 
