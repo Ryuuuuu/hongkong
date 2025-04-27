@@ -4,7 +4,7 @@
 **더 솔즈베리 YMCA 홍콩**  
 - 주소: 41 Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong  
 - 위치: 침사추이 MTR역에서 도보 5분 거리, 빅토리아 하버 앞에 위치
-- 🗺️ [Google Maps 위치](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7)
+- 🗺️ [Google Maps 위치](https://maps.app.goo.gl/JrNoWVL8ZaaGFUhk9)
 
 ---
 
@@ -12,17 +12,16 @@
 
 | ⏰ 시간 | 📋 일정 | 🔍 상세 정보 | 🗺️ 구글 맵 |
 |:-------:|---------|-------------|------------|
-| 08:00 | **한국 출발** | 인천국제공항 출발 | [ICN](https://maps.app.goo.gl/kMSCWTuH6a6w8PPT9) |
-| 12:35 | **홍콩 도착** | 홍콩 국제공항(HKG) 도착, 수하물 수령 및 입국 심사 | [HKG](https://maps.app.goo.gl/VFPFJLpJ8iAHFZN39) |
-| 13:30 - 14:30 | **공항 → 숙소 이동** | • **이동수단**: 에어포트 익스프레스<br>• **소요시간**: 약 24분 (공항 → 홍콩역)<br>• **비용**: 성인 1인 HK$115 (약 18,000원)<br>• **경유**: 홍콩역에서 MTR 환승 (침사추이역 방면)<br>• **MTR 요금**: 약 HK$10 (약 1,600원) | [홍콩역](https://maps.app.goo.gl/8JxDfrQp5kZGiGqy9) |
-| 14:30 - 15:00 | **체크인 및 휴식** | 더 솔즈베리 YMCA 홍콩 호텔 체크인, 짐 정리 및 휴식 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
-| 15:00 - 16:30 | **침사추이 해변 산책** | • 애비뉴 오브 스타즈 방문<br>• 빅토리아 하버 전망 감상 | [애비뉴 오브 스타즈](https://maps.app.goo.gl/dPSKnZcLqzwDGzAL9) |
-| 16:30 - 17:00 | **야간 투어 집합** | 야간 투어 출발 장소로 이동 | - |
-| 17:00 - 22:00 | **야간 투어** | • 피크트램, 빅토리아 피크<br>• 스타페리<br>• Symphony of Lights<br>• 템플스트리트 야시장 | [빅토리아 피크](https://maps.app.goo.gl/2p1yHarrr4dMFqK28)<br>[스타페리 부두](https://maps.app.goo.gl/h3mDSTJiNPwbULiD9)<br>[템플스트리트](https://maps.app.goo.gl/KZTB2DfzimJA5Cz49) |
-| 22:00 - 23:00 | **숙소 복귀** | • **이동수단**: MTR 또는 택시<br>• **소요시간**: 약 15-20분<br>• **비용**: MTR 약 HK$10 또는 택시 약 HK$50 | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
-
-### 🍽️ 식사 정보
-- **저녁**: 야간 투어 중 식사 또는 템플스트리트 야시장에서 현지 음식 체험 | [템플스트리트 야시장](https://maps.app.goo.gl/KZTB2DfzimJA5Cz49)
+| 10:30 | **한국 출발** | 인천국제공항 출발 | [ICN](https://maps.app.goo.gl/kMSCWTuH6a6w8PPT9) |
+| 11:30 | **공항 도착** | • 유심 (카톡 확인) <br> • 옥토퍼스 카드 수령 (메일 확인) <br> •  간단한 점심식사 |  |
+| 16:35 | **홍콩 도착** | 홍콩 국제공항(HKG) 도착, 수하물 수령 및 입국 심사 | [HKG](https://maps.app.goo.gl/umWfSifyHSUoSATh7) |
+| 16:35 - 17:30 | **공항 → 숙소 이동** | • **이동수단**: 에어포트 익스프레스<br>• **소요시간**: 약 20분 (공항 → 구룡역)<br>• 이메일 바우처 확인, 내릴때 QR<br>• **경유**: 구룡역에서 숙소까지 택시. 약 HK$60<br> •구룡역 택시 station : 쇼핑몰 지하에 있음 | [구룡역](https://maps.app.goo.gl/yChnY8G9GisCDaom6) |
+| 17:30 - 17:50 | **체크인 및 휴식** | 더 솔즈베리 YMCA 홍콩 호텔 체크인, 짐 정리 및 휴식 | [YMCA 홍콩](https://maps.app.goo.gl/JrNoWVL8ZaaGFUhk9) |
+| 17:50 - 18:30 | **저녁식사** | • 렁딤섬 <br>• 퓨전 딤섬집. 바우처 구매 완료 | [렁딤섬](https://maps.app.goo.gl/b4zQqALwbXWsRp9K6) |
+| 18:30 - 19:00 | **야간 투어 집합** | 야간 투어 출발 장소로 이동 | [조던역 A번출구](https://maps.app.goo.gl/J5sXZKPzih46Lvcy7) |
+| 19:00 - 22:00 | **야간 투어** | • 피크트램, 빅토리아 피크<br>• 스타페리<br>• Symphony of Lights | [빅토리아 피크](https://maps.app.goo.gl/94ELMuBRKusJRCyR9)<br>[스타페리 부두](https://maps.app.goo.gl/NHD49mzW5fH5Zgyz9) |
+| 22:00 - 23:00 | **야시장 구경** | • 템플스트리트 야시장 | [템플스트리트](https://maps.app.goo.gl/BXwuLpr5JyrkFyyi6) |
+| 22:00 - 23:00 | **숙소 복귀** | • **이동수단**: MTR 1정거장 <br>• **소요시간**: 약 15-20분<br>• **비용**: MTR 약 HK$10  | [YMCA 홍콩](https://maps.app.goo.gl/Asx9XgKRXVZBMAZE7) |
 
 ---
 
